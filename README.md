@@ -4,13 +4,10 @@
 
 ### initialize terraform 
 
-``` terraform init 
-```
+``` terraform init ```
 ### plane the terrafrom modules which are create
 
-``` terraform plan 
-```
+``` terraform plan ```
 ### create modules with terrafrom command 
 
-``` terrafrom apply 
-```
+``` terrafrom apply ```
