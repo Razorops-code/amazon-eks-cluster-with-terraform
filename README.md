@@ -23,5 +23,5 @@ terraform plan
 ### create modules with terrafrom command 
 
 ``` 
-terrafrom apply
+terraform apply
 ```
