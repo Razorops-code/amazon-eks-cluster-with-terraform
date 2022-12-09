@@ -1,7 +1,10 @@
 ### Provision create EKS cluster
 
-``` git clone https://github.com/Razorops-code/amazon-eks-cluster-with-terraform.git 
-cd amazon-eks-cluster-with-terraform.git ```
+``` git clone https://github.com/Razorops-code/amazon-eks-cluster-with-terraform.git ```
+
+### move to amazon-eks-cluster-with-terraform location
+
+``` cd amazon-eks-cluster-with-terraform ```
 
 ### initialize terraform 
 
